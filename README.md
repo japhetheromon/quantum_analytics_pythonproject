@@ -12,4 +12,3 @@ In order to achieve this, the following steps were taken:
 5. Wrote an observation at each of your exploratory data analysis
 6. Finally, an overall recommendation to the stakeholders on how they can improve their business and generate more revenue was given.
 
-# pythonproject
